@@ -1,0 +1,1 @@
+This script use for integrate notification on telegram to nagios server.
